@@ -20,7 +20,6 @@
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.TagHelpers.input.cache
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.TagHelpers.output.cache
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.RazorCoreGenerate.cache
-/Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
@@ -34,3 +33,5 @@
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.pdb
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.genruntimeconfig.cache
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.csproj.CopyComplete
+/Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+/Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/register.cshtml.g.cs
