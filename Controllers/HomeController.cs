@@ -41,6 +41,10 @@ namespace MyGram.Controllers
             return Content(myResult);
         }
 
+        public IActionResult Updateuser()
+        {
+            return View();
+        }
 
 
 
