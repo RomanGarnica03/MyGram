@@ -33,6 +33,17 @@ namespace MyGram.Controllers
             return View();
         }
 
+        public IActionResult SaveUser(string username, string password)
+        {
+            string myResult =
+                "The user is" + username +
+                " and the password is:" + password;
+            return Content(myResult);
+        }
+
+
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
