@@ -6,12 +6,25 @@
     <title>@ViewData["Title"]MyGram</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/index.css" />
 </head>
+
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                
+                <nav>
+                    <div class="theheader">
+                        <a>My Gram</a>
+                        <a class="GramButtons" href="~/Home/Login">Log In</a>
+                        <a class="GramButtons" href="~/Home/Register">Register</a>
+                        <input type="text" placeholder="Search">
+                        <a class="GramButtons" href="~/Home/Signup">Signup</a>
+                        <button><img src="https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png" alt="" width="30" height="30"></button>
+                    </div>
+                </nav>
+
+
             </div>
         </nav>
     </header>
@@ -22,7 +35,7 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
+        <div  id="divfooter" class="container">
             <a href="www.google.com">About</a> 
             <a href="www.google.com">Blog</a>
             <a href="www.google.com">Jobs</a>
