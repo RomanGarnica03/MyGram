@@ -1,6 +1,7 @@
 ﻿
 body {
     background-color: #fafafa;
+    
 }
 
 #img1 {
@@ -21,6 +22,14 @@ body {
     border-color: dodgerblue;
 }
 
+    .GramButtons:hover {
+        background-color: royalblue;
+        color: white;
+        border-radius: 5px;
+        border-color: royalblue;
+        text-decoration: none;
+    }
+
 .GramButtons1 {
 
     border-radius: 10px;
@@ -30,3 +39,15 @@ body {
 footer a {
     color: #cccccc;
 }
+
+.posts a {
+
+    color: gray;
+    text-decoration: none;
+
+}
+
+    .posts a:hover {
+        color: black;
+        text-decoration: none;
+    }
