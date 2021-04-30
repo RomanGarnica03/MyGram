@@ -3,51 +3,25 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"]MyGram</title>
+    <title>@ViewData["Title"] - MyGram1</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="~/css1/site.css" />
 </head>
-
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <nav>
-                    <div class="theheader">
-                        <a>My Gram</a>
-                        <a class="GramButtons" href="~/Home/Login">Log In</a>
-                        <a class="GramButtons" href="~/Home/Register">Register</a>
-                        <input type="text" placeholder="Search">
-                        <a class="GramButtons" href="~/Home/Signup">Signup</a>
-                        <button><img src="https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png" alt="" width="30" height="30"></button>
-                    </div>
-                </nav>
 
-
-            </div>
-        </nav>
-    </header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div  id="divfooter" class="container">
-            <a href="www.google.com">About</a> 
-            <a href="www.google.com">Blog</a>
-            <a href="www.google.com">Jobs</a>
-            <a href="www.google.com">Help</a>
-            <a href="www.google.com">English</a>
-            <a href="www.google.com">2021</a>
-            <a href="www.google.com">My Gram</a>
-        </div>
-    </footer>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @RenderSection("Scripts", required: false)
 </body>
+
+
 </html>

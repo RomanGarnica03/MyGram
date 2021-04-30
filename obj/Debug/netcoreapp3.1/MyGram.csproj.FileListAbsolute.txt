@@ -34,5 +34,5 @@
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.csproj.CopyComplete
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/register.cshtml.g.cs
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Updateuser.cshtml.g.cs
-/Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/index.cshtml.g.cs
 /Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/romangarnica/Projects/MyGram/MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs

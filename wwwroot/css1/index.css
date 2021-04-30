@@ -1,0 +1,32 @@
+﻿
+body {
+    background-color: #fafafa;
+}
+
+#img1 {
+
+    border-radius: 50%;
+
+}
+
+#mygram {
+  font-family: 'Apple Chancery'
+}
+
+
+.GramButtons {
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    border-color: dodgerblue;
+}
+
+.GramButtons1 {
+
+    border-radius: 10px;
+
+}
+
+footer a {
+    color: #cccccc;
+}

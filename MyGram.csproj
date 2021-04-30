@@ -7,4 +7,7 @@
   <ItemGroup>
     <Content Remove="Views\register.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\css1\" />
+  </ItemGroup>
 </Project>
