@@ -32,8 +32,8 @@ body {
 
 .GramButtons1 {
 
+  
     border-radius: 10px;
-
 }
 
 footer a {
@@ -51,3 +51,26 @@ footer a {
         color: black;
         text-decoration: none;
     }
+
+
+#avatar {
+    width: 465px;
+}
+
+#avatar2 {
+    width: 465px;
+}
+
+footer {
+
+    text-align:center;
+
+}
+
+
+
+.avatarimg {
+    border-radius: 50%;
+
+
+}
